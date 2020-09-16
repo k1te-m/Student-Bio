@@ -29,3 +29,7 @@ body {
 #me {
     border: 5px solid black;
 }
+#header {
+    text-align: center;
+    background-color: gray;
+}
